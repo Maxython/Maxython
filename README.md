@@ -4,4 +4,4 @@
 
 Hello, my name is Max and I'm a "regular" programmer.
 
-How to sponsor me is written in [maxthon.pw](https://maxython.pw/).
+How to sponsor me is written in [maxython.pw](https://maxython.pw/).
