@@ -4,4 +4,4 @@
 
 Hello, my name is Max and I'm a "regular" programmer.
 
-How to sponsor me is written in [maxython.github.io](https://maxython.github.io/).
+My site: [maxython.github.io](https://maxython.github.io/)
