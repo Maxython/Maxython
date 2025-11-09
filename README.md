@@ -4,4 +4,4 @@
 
 Hello, my name is Max and I'm a "regular" programmer.
 
-My site: [maxython.github.io](https://maxython.github.io/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8BT3T7)
